@@ -1,0 +1,22 @@
+ul > li{ 
+    position: sticky;
+     display: inline-block;
+width: 250px;
+text-align: center;
+font-size: xx-large;
+background-color: rgb(8, 8, 8);
+color: rgb(255, 255, 255);}
+div { background-color: rgb(252, 0, 0);
+padding: 5px;
+position: sticky;
+top: 0;
+backface-visibility: hidden;
+}
+img {
+    width: 50px;
+    position: fixed;
+    text-align: left;
+    right: 15px;
+    bottom: 10px;
+}
+p { text-align: justify;}
